@@ -1,0 +1,13 @@
+{
+  "appname": "default access",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "4779C564-D3FA-4DD2-95EB-61AA274EBCAC",
+  "buyerid": "vibram-buyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
